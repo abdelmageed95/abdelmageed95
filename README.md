@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelmageed ahmed </h1>
-<h3 align="center">I am passionate about creative and new ideas that make a change, and interested in collecting, cleaning, processing data, and extracting information and insights that can make big changes in decision making and business , I hold a master's degree in AI and Data Science. </h3>
+<h3 align="center">I am passionate about creative and new ideas that make a change, and interested in collecting, cleaning, processing data, and extracting information and insights that can make big changes in decision making and business , I hold a master's degree in AI and Data Science from University of Ottawa - canada </h3>
 
 - 🔭 I’m currently working on [The power of Knowledge Project](https://github.com/abdelmageed95/Knowledge-base-from-scratch)
 
-- 📫 How to reach me **abdelmageed271@gmail.com**
+- 📫 How to reach me   **abdelmageed271@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1clLNgy70ZV7uuBoBEUzYp2BdGa9-rboR/view?usp=sharing](https://drive.google.com/file/d/1clLNgy70ZV7uuBoBEUzYp2BdGa9-rboR/view?usp=sharing)
+- 📄  My Resume  [https://drive.google.com/file/d/1clLNgy70ZV7uuBoBEUzYp2BdGa9-rboR/view?usp=sharing](https://drive.google.com/file/d/1clLNgy70ZV7uuBoBEUzYp2BdGa9-rboR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
