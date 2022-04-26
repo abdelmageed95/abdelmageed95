@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Abdelmageed Ahmed , I am a Junior data scientist
+### I am passionate about creative and new ideas that make a change, and interested in collecting, cleaning, processing
+### data, and extracting information and insights that can make big changes in decision making and business
 
 <!--
 **abdelmageed95/abdelmageed95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
