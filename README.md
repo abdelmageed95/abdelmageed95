@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelmageed ahmed </h1>
-<h3 align="center">I am passionate about creative and new ideas that make a change, and interested in collecting, cleaning, processing data, and extracting information and insights that can make big changes in decision making and business , I hold a master's degree in AI and Data Science from University of Ottawa - canada </h3>
+<h3 align="center">I am passionate about creative and new ideas that make a change, and interested in collecting, cleaning, processing data, and extracting information and insights that can make big changes in decision making and business , I am holding a master's degree in AI and Data Science from University of Ottawa - canada </h3>
 
 
 
