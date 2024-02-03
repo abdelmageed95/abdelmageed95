@@ -5,7 +5,6 @@
 
 - 📫 How to reach me   **abdelmageed271@gmail.com**
 
-- 📄  My Resume  [https://drive.google.com/file/d/1clLNgy70ZV7uuBoBEUzYp2BdGa9-rboR/view?usp=sharing](https://drive.google.com/file/d/1clLNgy70ZV7uuBoBEUzYp2BdGa9-rboR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
